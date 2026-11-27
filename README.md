@@ -37,7 +37,7 @@ Total: **15,315** lines of code across **100** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 73 · **Forks**: 3 · **Open issues**: 0 · **Contributors**: 3
+- **Stars**: 74 · **Forks**: 3 · **Open issues**: 0 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **15,315** lines of code across **100** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 1 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-30 | 7 | 21 | 1 | 0 | 0 | 25 |
-| 360d | 2025-12-01 | 10 | 22 | 1 | 0 | 0 | 33 |
-| last720d | 2024-12-06 | 15 | 25 | 1 | 0 | 0 | 47 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 1 | 0 | 0 | 0 | 4 |
+| last180d | 2026-05-31 | 7 | 21 | 1 | 0 | 0 | 25 |
+| 360d | 2025-12-02 | 10 | 22 | 1 | 0 | 0 | 33 |
+| last720d | 2024-12-07 | 15 | 25 | 1 | 0 | 0 | 47 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for tokui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:59:39Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:00:27Z._
