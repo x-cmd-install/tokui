@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3601764,
       "digest": "sha256:e0a6eac8e1603f1b29baf18402d232316576e4076f669083badb05cc4818fc93",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-07-30T09:55:23Z",
       "updated_at": "2026-07-30T09:55:23Z",
       "browser_download_url": "https://github.com/zdyxry/tokui/releases/download/v0.12.0/tokui_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3858512,
       "digest": "sha256:320769010e07630a6bbe4f0b03650ef15f2a8541567526a49db66bbc36040f4b",
-      "download_count": 49,
+      "download_count": 52,
       "created_at": "2026-07-30T09:55:22Z",
       "updated_at": "2026-07-30T09:55:23Z",
       "browser_download_url": "https://github.com/zdyxry/tokui/releases/download/v0.12.0/tokui_linux_x86_64.tar.gz"
